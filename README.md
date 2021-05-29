@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on multiple projects which include data engineering, software development and monitoring.
 - 🌱 I’m currently learning to contribute to the open source.
 - 👯 I’m looking to collaborate on [Apache-Airflow](https://github.com/apache/airflow/blob/master/CONTRIBUTING.rst#pull-request-guidelines)
-- 📫 How to reach me: [Gmail](arvindeybram@gmail.com)
+- 📫 How to reach me: [arvindeybram@gmail.com]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Cows can walk up stairs but not down them.
 
