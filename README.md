@@ -13,7 +13,7 @@ I always look for ways to improve and learn new things, I have recently started 
 
 I take great care in the architecture, and code quality of the things I build.
 
-I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
 <!-- 
 **arvindeybram/arvindeybram** is a  repository because its `README.md` (this file) appears on your GitHub profile.
