@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/kafka-282292.png"></code>
+<code><img height="30" src="https://iconape.com/wp-content/png_logo_vector/apache-spark-logo.png"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/766800?s=200&v=4"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/5666660?s=200&v=4"></code>
 <code><img height="30" src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png"></code>
