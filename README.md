@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on [Apache-Airflow](https://github.com/apache/airflow/blob/master/CONTRIBUTING.rst#pull-request-guidelines)
 - 📫 How to reach me: [arvindeybram@gmail.com]
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Cows can walk up stairs but not down them.
+- ⚡ Fun fact: I can do a handstand.
 
 <br />
 
