@@ -5,7 +5,7 @@
 </a>
 
 
-Hi, I'm [Arvind Abraham](https://www.linkedin.com/pulse/how-we-automated-etl-workflows-apache-airflow-receive-arvind-abraham/), a technology enthusiast and a DevOps engineer at [Kayzen](https://www.kayzen.io). 
+Hi, I'm [Arvind Abraham](https://www.linkedin.com/pulse/how-we-automated-etl-workflows-apache-airflow-receive-arvind-abraham/), a technology enthusiast and a MLOps/DevOps engineer at [Kayzen](https://www.kayzen.io). 
 
 I believe that software engineers are real superheroes, who can make the world a better place by manipulating electricity via coding. 
 
