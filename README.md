@@ -1,43 +1,21 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-Hi, I'm [Arvind Abraham](https://www.linkedin.com/pulse/how-we-automated-etl-workflows-apache-airflow-receive-arvind-abraham/), a technology enthusiast and a Dev-ML-Ops engineer at [Kayzen](https://www.kayzen.io). 
+[![](https://visitcount.itsvg.in/api?id=arvindeybram&icon=1&color=1)](https://visitcount.itsvg.in)
 
-I believe that software engineers are real superheroes, who can make the world a better place by manipulating electricity via coding. 
+Hi, I'm [Arvind Abraham](https://www.linkedin.com/pulse/how-we-automated-etl-workflows-apache-airflow-receive-arvind-abraham/), a technology enthusiast and a Senior Engineer at [Zscaler](https://www.zscaler.com/). 
 
-I always look for ways to improve and learn new things, I have recently started contributing to open-source.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arvind.abraham.12) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_the_yogi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arvindabraham) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@arvindabraham94) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/arvindabraham) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Arvind-Abraham-1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/yogicorp) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8460616) 
 
-I care greatly about the architecture and code quality of the things I build.
+# 💻 Tech Stack:
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=arvindeybram&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=arvindeybram&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arvindeybram&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I learned a lot from the open-source community and love how collaboration and knowledge sharing happen through open-source.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arvindeybram&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- 
-**arvindeybram/arvindeybram** is a  repository because its `README.md` (this file) appears on your GitHub profile.
-✨ _special_ ✨
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently working on multiple projects, including data engineering, software development, and monitoring.
-- 🌱 I’m currently learning to contribute to the open source.
-- 👯 I’m looking to collaborate on [Apache-Airflow](https://github.com/apache/airflow/blob/master/CONTRIBUTING.rst#pull-request-guidelines)
-- 📫 How to reach me: [arvindeybram@gmail.com]
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can do a handstand.
-
-<br />
-
-  
-**Languages and Tools:**  
-
-<code><img height="30" src="https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/images/hdfs-logo.jpg"></code>
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/kafka-282292.png"></code>
-<code><img height="30" src="https://iconape.com/wp-content/png_logo_vector/apache-spark-logo.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_dark_bg.png?api=v2"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/766800?s=200&v=4"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/5666660?s=200&v=4"></code>
-<code><img height="30" src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>
-<code><img height="30" src="https://github.com/Bash-it/media/raw/master/media/Bash-it.png"></code>
+🔭 I’m currently working on multiple projects, including data engineering, software development, and monitoring.<br>🌱 I’m currently learning to contribute to the open source.<br>👯 I’m looking to collaborate on Apache-Airflow<br>📫 How to reach me: [arvindeybram@gmail.com]<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I can do a handstand.<br>
