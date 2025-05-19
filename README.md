@@ -5,7 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=arvindeybram&icon=1&color=1)](https://visitcount.itsvg.in)
 
-Hi, I'm [Arvind Abraham](https://www.linkedin.com/pulse/how-we-automated-etl-workflows-apache-airflow-receive-arvind-abraham/), a technology enthusiast and a Senior Software Development Engineer at [Zscaler](https://www.zscaler.com/). 
+Hi, I'm [Arvind Abraham](https://www.linkedin.com/pulse/how-we-automated-etl-workflows-apache-airflow-receive-arvind-abraham/), a technology enthusiast and a Senior Software Development Engineer at Zscaler. 
 
 ## [![✨ Discover More](https://img.shields.io/badge/arvindeybram.io-black)](https://arvindeybram.github.io/)
 
